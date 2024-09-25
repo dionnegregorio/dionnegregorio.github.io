@@ -2,4 +2,4 @@
 
 This is a personal website built using the Hack4Impact Starter Pack!
 Dionne is a 3rd year CS major from Los Osos, California
-[Visit it Here!](https://<username>.github.io)
+[Visit it Here!](https://dionnegregorio.github.io)
