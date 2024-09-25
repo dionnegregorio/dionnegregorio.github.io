@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color: rgb(229, 41, 41);
+  background-color: rgb(255, 170, 0);
   position: relative;
   min-height: 100vh;
   padding: 0;
@@ -15,10 +15,31 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  padding-left: 5em;
+  padding-top: 2em;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+p{
+font-size: large;
+}
+
+.about-image{
+    padding-left: 50em;
+}
+.about-text{
+    padding-bottom: 50em;
 }
 
 /* CSS for navigation bar */
+
+.logo{
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 3em;
+}
 
 .navbar {
   position: -webkit-sticky;
@@ -47,10 +68,12 @@ main {
   position: relative;
   right: 30px;
   list-style: none;
+  padding-right: 3em;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .navbar a {
-  color: white;
+  color: rgb(246, 176, 24);
   font-weight: bold;
   margin: 0 12px;
   text-decoration: none;
@@ -64,7 +87,7 @@ main {
   justify-content: center;
   align-items: center;
   background-color: black;
-  color: white;
+  color: rgb(255, 170, 0);
   position: absolute;
   bottom: 0;
   width: 100%;
