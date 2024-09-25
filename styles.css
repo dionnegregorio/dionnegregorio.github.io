@@ -23,17 +23,6 @@ h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
 
-p{
-font-size: large;
-}
-
-.about-image{
-    padding-left: 50em;
-}
-.about-text{
-    padding-bottom: 50em;
-}
-
 /* CSS for navigation bar */
 
 .logo{
@@ -79,6 +68,19 @@ font-size: large;
   text-decoration: none;
   letter-spacing: 2px;
 }
+
+p{
+    font-size: large;
+    }
+    
+    .about-image{
+        padding-left: 50em;
+        margin-top: -10em;
+    }
+    .about-text{
+        padding-top: 1%;
+    }
+    
 
 /* CSS for page footer */
 
