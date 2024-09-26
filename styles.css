@@ -20,7 +20,7 @@ main {
 }
 
 h1{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 /* CSS for navigation bar */
@@ -70,16 +70,19 @@ h1{
 }
 
 p{
-    font-size: large;
-    }
+    font-size:x-large;
+    font-family:'Times New Roman', Times, serif;
     
-    .about-image{
-        padding-left: 50em;
-        margin-top: -12em;
-    }
-    .about-text{
-        padding-top: .5em;
-    }
+  }
+    
+.about-image{
+    padding-left: 63em;
+    margin-top: -15em;
+}
+
+.about-text{
+    padding-top: .5em;
+}
     
 
 /* CSS for page footer */
