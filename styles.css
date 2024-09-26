@@ -19,15 +19,23 @@ main {
   padding-top: 2em;
 }
 
-h1{
-  font-family:Georgia, 'Times New Roman', Times, serif;
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+ul {
+  margin-top: -1em;
 }
 
 /* CSS for navigation bar */
 
-.logo{
-    font-family: 'Courier New', Courier, monospace;
-    padding-left: 3em;
+.logo {
+  font-family: "Courier New", Courier, monospace;
+  padding-left: 3em;
 }
 
 .navbar {
@@ -58,7 +66,7 @@ h1{
   right: 30px;
   list-style: none;
   padding-right: 3em;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .navbar a {
@@ -69,21 +77,30 @@ h1{
   letter-spacing: 2px;
 }
 
-p{
-    font-size:x-large;
-    font-family:'Times New Roman', Times, serif;
-    
-  }
-    
-.about-image{
-    padding-left: 63em;
-    margin-top: -15em;
+p {
+  font-size: x-large;
+  font-family: "Times New Roman", Times, serif;
 }
 
-.about-text{
-    padding-top: .5em;
+h3.entry-title {
+  font-size: large;
 }
-    
+p.entry-info{
+  font-size: large;
+}
+
+p.entry-description {
+  font-size: medium;
+}
+
+.about-image {
+  padding-left: 63em;
+  margin-top: -16em;
+}
+
+.about-text {
+  padding-top: 0.5em;
+}
 
 /* CSS for page footer */
 
