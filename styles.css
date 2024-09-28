@@ -66,6 +66,7 @@ ul {
   right: 30px;
   list-style: none;
   padding-right: 3em;
+  margin-top: 1em;
   font-family: "Courier New", Courier, monospace;
 }
 
@@ -101,6 +102,15 @@ p.entry-description {
 .about-text {
   padding-top: 0.5em;
 }
+
+a:hover{
+  color: hsl(0, 4%, 82%);
+  text-decoration: line-through;
+}
+
+/*contact form */
+
+
 
 /* CSS for page footer */
 
